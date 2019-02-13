@@ -12,9 +12,6 @@
 {for any issues or concerns contact me at xystusngigi@gmail.com}
 ## link to live sites
 [site about me][https://github.com/xystus45/xystus45.github.io.git]
-[hello-world][https://github.com/xystus45/hello-world.git]
-[cookie-recipe][https://github.com/xystus45/cookie-recepie.git]
-[my-first-website][https://github.com/xystus45/my-first-website.git]
 liscence and copyright
 MIT 
 copyright(2019) xystus ngigi kariuki
